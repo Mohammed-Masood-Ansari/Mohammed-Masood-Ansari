@@ -202,6 +202,6 @@ I'm always interested in connecting with fellow developers, discussing backend e
 
 📧 Email: masoodansari1997@gmail.com
 
-🔗 LinkedIn: Add your LinkedIn profile here
+🔗 LinkedIn: https://www.linkedin.com/in/mohammed-masood-ansari-54a294152/
 
 💻 GitHub: Mohammed-Masood-Ansari
